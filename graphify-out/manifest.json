@@ -1,0 +1,132 @@
+{
+  "D:\\projectantigr\\geminuuy1\\pantaujanji-web\\.eslintrc.json": {
+    "mtime": 1780738238.489511,
+    "ast_hash": "5cc89077d438e3d0d0a8308ab7e06a5a",
+    "semantic_hash": "5cc89077d438e3d0d0a8308ab7e06a5a"
+  },
+  "D:\\projectantigr\\geminuuy1\\pantaujanji-web\\components.json": {
+    "mtime": 1780738339.1210134,
+    "ast_hash": "2417483def27c30769ab52ad3522b116",
+    "semantic_hash": "2417483def27c30769ab52ad3522b116"
+  },
+  "D:\\projectantigr\\geminuuy1\\pantaujanji-web\\next.config.mjs": {
+    "mtime": 1780738238.5427072,
+    "ast_hash": "21958f5752add43cc47ab0ff5172cd46",
+    "semantic_hash": "21958f5752add43cc47ab0ff5172cd46"
+  },
+  "D:\\projectantigr\\geminuuy1\\pantaujanji-web\\package.json": {
+    "mtime": 1780738721.5822742,
+    "ast_hash": "afcfa0fcc71f11139a7cf815eac81949",
+    "semantic_hash": "afcfa0fcc71f11139a7cf815eac81949"
+  },
+  "D:\\projectantigr\\geminuuy1\\pantaujanji-web\\postcss.config.mjs": {
+    "mtime": 1780738238.5650651,
+    "ast_hash": "b7941c02b947e17ae32f67ae7e664ec8",
+    "semantic_hash": "b7941c02b947e17ae32f67ae7e664ec8"
+  },
+  "D:\\projectantigr\\geminuuy1\\pantaujanji-web\\src\\app\\layout.tsx": {
+    "mtime": 1780739637.0627542,
+    "ast_hash": "230a971725160e12f6017496c5b3cf01",
+    "semantic_hash": "230a971725160e12f6017496c5b3cf01"
+  },
+  "D:\\projectantigr\\geminuuy1\\pantaujanji-web\\src\\app\\page.tsx": {
+    "mtime": 1780738531.2303941,
+    "ast_hash": "5f570b9151642c1446d4f80b7721014f",
+    "semantic_hash": "5f570b9151642c1446d4f80b7721014f"
+  },
+  "D:\\projectantigr\\geminuuy1\\pantaujanji-web\\src\\components\\layout\\Footer.tsx": {
+    "mtime": 1780739661.6354103,
+    "ast_hash": "f011a82f9c4cd571e198dd5d418ba1db",
+    "semantic_hash": "f011a82f9c4cd571e198dd5d418ba1db"
+  },
+  "D:\\projectantigr\\geminuuy1\\pantaujanji-web\\src\\components\\layout\\Navbar.tsx": {
+    "mtime": 1780739649.6274235,
+    "ast_hash": "216b36bfd20f1ff732257331e30cd59f",
+    "semantic_hash": "216b36bfd20f1ff732257331e30cd59f"
+  },
+  "D:\\projectantigr\\geminuuy1\\pantaujanji-web\\src\\components\\mode-toggle.tsx": {
+    "mtime": 1780738452.794871,
+    "ast_hash": "d0a16c4b7db644e8bf864c8f76b06801",
+    "semantic_hash": "d0a16c4b7db644e8bf864c8f76b06801"
+  },
+  "D:\\projectantigr\\geminuuy1\\pantaujanji-web\\src\\components\\sections\\HeroSection.tsx": {
+    "mtime": 1780739682.9839342,
+    "ast_hash": "16b91ba58e46f92b7da1903e138f55b7",
+    "semantic_hash": "16b91ba58e46f92b7da1903e138f55b7"
+  },
+  "D:\\projectantigr\\geminuuy1\\pantaujanji-web\\src\\components\\sections\\LeaderboardSection.tsx": {
+    "mtime": 1780739901.5483468,
+    "ast_hash": "be4e3e336cd7af6f16f1d7d0109d44cd",
+    "semantic_hash": "be4e3e336cd7af6f16f1d7d0109d44cd"
+  },
+  "D:\\projectantigr\\geminuuy1\\pantaujanji-web\\src\\components\\sections\\TrendingPromises.tsx": {
+    "mtime": 1780739697.9904506,
+    "ast_hash": "8dc600856b6505d5c4e2a30ce1f68f25",
+    "semantic_hash": "8dc600856b6505d5c4e2a30ce1f68f25"
+  },
+  "D:\\projectantigr\\geminuuy1\\pantaujanji-web\\src\\components\\theme-provider.tsx": {
+    "mtime": 1780738443.846195,
+    "ast_hash": "fd3699b7330dd650753972a449acda00",
+    "semantic_hash": "fd3699b7330dd650753972a449acda00"
+  },
+  "D:\\projectantigr\\geminuuy1\\pantaujanji-web\\src\\components\\ui\\avatar.tsx": {
+    "mtime": 1780738430.6178718,
+    "ast_hash": "0008445bf0b90f231d702bcd9141726c",
+    "semantic_hash": "0008445bf0b90f231d702bcd9141726c"
+  },
+  "D:\\projectantigr\\geminuuy1\\pantaujanji-web\\src\\components\\ui\\badge.tsx": {
+    "mtime": 1780738430.5318012,
+    "ast_hash": "f9c097d427c421f83eb92772a4b8ec06",
+    "semantic_hash": "f9c097d427c421f83eb92772a4b8ec06"
+  },
+  "D:\\projectantigr\\geminuuy1\\pantaujanji-web\\src\\components\\ui\\button.tsx": {
+    "mtime": 1780738430.2907102,
+    "ast_hash": "33f8ef5c351115f8904b2a2f3decef54",
+    "semantic_hash": "33f8ef5c351115f8904b2a2f3decef54"
+  },
+  "D:\\projectantigr\\geminuuy1\\pantaujanji-web\\src\\components\\ui\\card.tsx": {
+    "mtime": 1780738430.3895342,
+    "ast_hash": "4be937e00a434ffa44e7f0e82ae79d17",
+    "semantic_hash": "4be937e00a434ffa44e7f0e82ae79d17"
+  },
+  "D:\\projectantigr\\geminuuy1\\pantaujanji-web\\src\\components\\ui\\progress.tsx": {
+    "mtime": 1780738430.466673,
+    "ast_hash": "f99d4c689a0cac272cb0b1e7ea222ba8",
+    "semantic_hash": "f99d4c689a0cac272cb0b1e7ea222ba8"
+  },
+  "D:\\projectantigr\\geminuuy1\\pantaujanji-web\\src\\components\\ui\\switch.tsx": {
+    "mtime": 1780738430.754817,
+    "ast_hash": "368340dd3f28bce468a5ffdebb321520",
+    "semantic_hash": "368340dd3f28bce468a5ffdebb321520"
+  },
+  "D:\\projectantigr\\geminuuy1\\pantaujanji-web\\src\\components\\ui\\tabs.tsx": {
+    "mtime": 1780738430.679659,
+    "ast_hash": "2dbb55bc73557d9794b1f166bb7e903b",
+    "semantic_hash": "2dbb55bc73557d9794b1f166bb7e903b"
+  },
+  "D:\\projectantigr\\geminuuy1\\pantaujanji-web\\src\\lib\\mock-data.ts": {
+    "mtime": 1780738423.3563747,
+    "ast_hash": "464049b2b0a50d66e61037687fccfa0f",
+    "semantic_hash": "464049b2b0a50d66e61037687fccfa0f"
+  },
+  "D:\\projectantigr\\geminuuy1\\pantaujanji-web\\src\\lib\\utils.ts": {
+    "mtime": 1780738349.80039,
+    "ast_hash": "ea1c194ee828369e6fcdde84b4d8b8ba",
+    "semantic_hash": "ea1c194ee828369e6fcdde84b4d8b8ba"
+  },
+  "D:\\projectantigr\\geminuuy1\\pantaujanji-web\\tailwind.config.ts": {
+    "mtime": 1780739731.8907044,
+    "ast_hash": "ef79fafc4f09d4e6de29793640b19d7b",
+    "semantic_hash": "ef79fafc4f09d4e6de29793640b19d7b"
+  },
+  "D:\\projectantigr\\geminuuy1\\pantaujanji-web\\tsconfig.json": {
+    "mtime": 1780738239.316592,
+    "ast_hash": "3bd7a3770c6b44dbcaab1d2f175db8bd",
+    "semantic_hash": "3bd7a3770c6b44dbcaab1d2f175db8bd"
+  },
+  "D:\\projectantigr\\geminuuy1\\pantaujanji-web\\README.md": {
+    "mtime": 1780738238.531961,
+    "ast_hash": "f15aaa42d5d299d091b1171097ea56ad",
+    "semantic_hash": "f15aaa42d5d299d091b1171097ea56ad"
+  }
+}
