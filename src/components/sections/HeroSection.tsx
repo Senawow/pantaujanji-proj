@@ -4,6 +4,7 @@ import { Button } from "@/components/ui/button"
 import { statistics } from "@/lib/mock-data"
 import { motion } from "framer-motion"
 import { ChevronRight } from "lucide-react"
+import Link from "next/link"
 
 export function HeroSection() {
   const containerVariants = {
@@ -57,12 +58,16 @@ export function HeroSection() {
             </motion.p>
             
             <motion.div variants={itemVariants} className="flex flex-col sm:flex-row items-center gap-4">
-              <Button size="lg" className="w-full sm:w-auto h-14 px-8 text-base font-semibold rounded-2xl bg-primary text-primary-foreground hover:bg-primary/90 shadow-[0_0_30px_rgba(0,229,255,0.25)] hover:shadow-[0_0_40px_rgba(0,229,255,0.4)] transition-all">
-                Telusuri Politisi
-                <ChevronRight className="ml-2 h-4 w-4" />
+              <Button size="lg" className="w-full sm:w-auto h-14 px-8 text-base font-semibold rounded-2xl bg-primary text-primary-foreground hover:bg-primary/90 shadow-[0_0_30px_rgba(0,229,255,0.25)] hover:shadow-[0_0_40px_rgba(0,229,255,0.4)] transition-all" asChild>
+                <Link href="/politicians">
+                  Telusuri Politisi
+                  <ChevronRight className="ml-2 h-4 w-4" />
+                </Link>
               </Button>
-              <Button size="lg" variant="outline" className="w-full sm:w-auto h-14 px-8 text-base font-semibold rounded-2xl border-white/20 bg-white/5 hover:bg-white/10 hover:text-white backdrop-blur-md transition-all">
-                Laporkan Janji
+              <Button size="lg" variant="outline" className="w-full sm:w-auto h-14 px-8 text-base font-semibold rounded-2xl border-white/20 bg-white/5 hover:bg-white/10 hover:text-white backdrop-blur-md transition-all" asChild>
+                <Link href="/login">
+                  Laporkan Janji
+                </Link>
               </Button>
             </motion.div>
           </motion.div>
