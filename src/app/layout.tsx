@@ -2,8 +2,6 @@ import type { Metadata } from "next"
 import { Syne, Plus_Jakarta_Sans } from "next/font/google"
 import "./globals.css"
 import { ThemeProvider } from "@/components/theme-provider"
-import { Navbar } from "@/components/layout/Navbar"
-import { Footer } from "@/components/layout/Footer"
 
 const syne = Syne({ 
   subsets: ["latin"],
@@ -35,11 +33,7 @@ export default function RootLayout({
           forcedTheme="dark"
           disableTransitionOnChange
         >
-          <div className="flex min-h-screen flex-col selection:bg-primary/30 selection:text-primary">
-            <Navbar />
-            <main className="flex-1">{children}</main>
-            <Footer />
-          </div>
+          {children}
         </ThemeProvider>
       </body>
     </html>

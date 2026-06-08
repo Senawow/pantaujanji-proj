@@ -57,11 +57,11 @@ export function Navbar() {
         </nav>
 
         <div className="flex items-center space-x-4">
-          <Button variant="ghost" className="hidden sm:inline-flex hover:bg-white/5 hover:text-white text-white/80 transition-colors rounded-xl">
-            Masuk
+          <Button variant="ghost" className="hidden sm:inline-flex hover:bg-white/5 hover:text-white text-white/80 transition-colors rounded-xl" asChild>
+            <Link href="/login">Masuk</Link>
           </Button>
-          <Button className="rounded-xl bg-primary text-primary-foreground hover:bg-primary/90 shadow-[0_0_20px_rgba(0,229,255,0.3)] hover:shadow-[0_0_30px_rgba(0,229,255,0.5)] transition-all">
-            Daftar
+          <Button className="rounded-xl bg-primary text-primary-foreground hover:bg-primary/90 shadow-[0_0_20px_rgba(0,229,255,0.3)] hover:shadow-[0_0_30px_rgba(0,229,255,0.5)] transition-all" asChild>
+            <Link href="/register">Daftar</Link>
           </Button>
         </div>
       </div>
